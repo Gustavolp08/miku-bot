@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+output/
+source-bot/output/
+_discord_*
